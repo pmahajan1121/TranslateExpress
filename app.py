@@ -10,8 +10,8 @@ app = Flask(__name__)
 
 mydb = mysql.connector.connect(
   host="translateexpsvr.mysql.database.azure.com",
-  user="mysqladmin@translateexpsvr",
-  password="Server@1",
+  user="redblack",
+  password="Password@123",
   database="ai"
 )
 
