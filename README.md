@@ -1,10 +1,10 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">"AITranslatorHub" could potentially represent a personalized Translation platform offering diverse language services, facilitating seamless communication across various cultures and languages</b></a>
+<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">"TranslateExpress" could potentially represent a personalized Translation platform offering diverse language services, facilitating seamless communication across various cultures and languages</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://myazurewebap.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://translateexpress.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/ChavanVaishu18/AITranslateHub.git <br>
+<b>Github Repository URL :</b> https://github.com/pmahajan1121/TranslateExpress.git <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
@@ -69,11 +69,11 @@ Azure AI Service <br>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-Language networking is being revolutionized by the innovative combination of technology and linguistic experience found in the My-AI-Translator-AITranslatorHub. With the support of Azure's strong infrastructure, it transcends linguistic borders and imagines a time when communication is limitless.
+Language networking is being revolutionized by the innovative combination of technology and linguistic experience found in the My-AI-Translator-TranslateExpress. With the support of Azure's strong infrastructure, it transcends linguistic borders and imagines a time when communication is limitless.
 
 This chapter's conclusion signifies not just the end of an application but also the beginning of a never-ending adventure exploring countless communication possibilities. This effort is a major step towards a more inclusive and connected world in an era characterized by global interconnection.
 </p>
 
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Certainly! An alternative to "TranscendLingua" could be:
+</h2><b><a href="https://translateexpress.azurewebsites.net/">Certainly! An alternative to "TranscendLingua" could be:
 
-"TranscendLingua: - AITranslatorHub Translation Web App using Azure AI Translation Service"</b></a>
+"TranscendLingua: - TranslateExpress Translation Web App using Azure AI Translation Service"</b></a>
