@@ -51,7 +51,7 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service delivers a robust and adaptable hosting infrastructure for the Multilingual Content Hub. This service ensures smooth deployment processes and guarantees high availability, ultimately enhancing the overall user experience to its peak potential.</p>
-<img src="./Screenshorts/Webapp.png" alt="azure-app-service"></img><br>
+<img src="https://github.com/pmahajan1121/TranslateExpress/blob/main/Screenshots/mytransapp.png" alt="azure-app-service"></img><br>
 
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
@@ -59,11 +59,11 @@ Azure AI Service <br>
 
 <h3>Azure AI Translator Service</h3>
 <b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
-<img src="./Screenshorts/Translator.png" alt="azure-translator-ai-service"></img><br>
+<img src="https://github.com/pmahajan1121/TranslateExpress/blob/main/Screenshots/mytranslatorai.png" alt="azure-translator-ai-service"></img><br>
 
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="./Screenshorts/FinalOutput.png" alt="final-project-demo"></img>
+<img src="https://github.com/pmahajan1121/TranslateExpress/blob/main/Screenshots/Working.png" alt="final-project-demo"></img>
 
 
 
