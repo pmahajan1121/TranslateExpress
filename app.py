@@ -71,8 +71,6 @@ def index_post():
     val = (translated_text, original_text, target_language)
     mycursor.execute(sql, val)
 
-    mydb.commit()
-
     # Call render template, passing the translated text,
     # original text, and target language to the template
     return render_template(
